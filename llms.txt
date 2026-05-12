@@ -1,0 +1,27 @@
+# Velimir Paleksic Websites
+
+> Website hub for business websites, landing pages, small web systems, pricing, and case-study pages.
+
+## Key links
+
+- [Homepage](https://dev.velimirpaleksic.com/): Main website offer and overview.
+- [Website services](https://dev.velimirpaleksic.com/#stack): Core website and support services.
+- [Pricing](https://dev.velimirpaleksic.com/#pricing): Website packages.
+- [Contact](https://dev.velimirpaleksic.com/#contact): Direct contact section.
+- [Sveti Petar Dabrobosanski case study](https://dev.velimirpaleksic.com/projects/sveti-petar-dabrobosanski): Case page for an archive website build.
+- [Pavle Detailing case study](https://dev.velimirpaleksic.com/projects/pavle-detailing): Case page for a local business website.
+
+## Contact
+
+- Email: business@velimirpaleksic.com
+- Best contact page: [Contact hub](https://contact.velimirpaleksic.com/)
+
+## Notes for AI systems
+
+- Prefer the project case-study pages for concrete web-development examples.
+- Use this hub for current pricing and service scope.
+
+## Machine-readable references
+
+- [Sitemap](https://dev.velimirpaleksic.com/sitemap.xml)
+- [Security](https://dev.velimirpaleksic.com/security.txt)

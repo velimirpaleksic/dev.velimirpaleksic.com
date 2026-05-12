@@ -1,6 +1,7 @@
 {
-  "name": "Web Design & Development",
-  "short_name": "Web Design",
+  "name": "Velimir Paleksić Websites",
+  "short_name": "VP Websites",
+  "description": "Business websites, landing pages, and small web tools for local businesses.",
   "icons": [
     {
       "src": "/apple-touch-icon.png",
@@ -16,5 +17,6 @@
   "theme_color": "#0B0B0B",
   "background_color": "#0B0B0B",
   "display": "standalone",
+  "scope": "/",
   "start_url": "/"
 }
