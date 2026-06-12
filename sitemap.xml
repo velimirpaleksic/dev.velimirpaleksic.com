@@ -3,23 +3,23 @@
     xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://dev.velimirpaleksic.com/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <lastmod>2026-06-12</lastmod>
     <image:image>
       <image:loc>https://dev.velimirpaleksic.com/og-image.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://dev.velimirpaleksic.com/projects/sveti-petar-dabrobosanski</loc>
-    <lastmod>2026-06-06</lastmod>
+    <lastmod>2026-06-12</lastmod>
     <image:image>
-      <image:loc>https://dev.velimirpaleksic.com/assets/web-project-1-CGLCCSx6.webp</image:loc>
+      <image:loc>https://dev.velimirpaleksic.com/assets/web-project-1-DDxYxnrB.webp</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://dev.velimirpaleksic.com/projects/pavle-detailing</loc>
-    <lastmod>2026-06-06</lastmod>
+    <lastmod>2026-06-12</lastmod>
     <image:image>
-      <image:loc>https://dev.velimirpaleksic.com/assets/web-project-3-D8zEOGYW.webp</image:loc>
+      <image:loc>https://dev.velimirpaleksic.com/assets/web-project-3-LocVjbWn.webp</image:loc>
     </image:image>
   </url>
 </urlset>
